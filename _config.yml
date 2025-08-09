@@ -48,8 +48,8 @@ links:
 
      # WHATSAPP
   - Name: WhatsApp
-    URL: https://wa.me
-    Username: '+41999827536'
+    URL: https://chat.whatsapp.com
+    Username: 'B5lpOMxZSvq31chULEmCyj'
     Color: '#25d366'
     Icon-Class: fab fa-whatsapp
 
