@@ -1,0 +1,11 @@
+<section class="links-grid">
+
+    {% for link in site.data.links %}
+    {% assign primeira_parte_url = link.url | slice: 0, 4 %}
+    <a class="action-card" href="{% if primeira_parte_url == 'http' %}{{ link.url }}{% else %}{{ link.url | relative_url }}{% endif %}">
+        <span>{{ link.titulo }}</span>
+        <small>{{ link.descricao }}</small>
+    </a>
+    {% endfor %}
+
+</section>

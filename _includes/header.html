@@ -1,0 +1,13 @@
+<header class="site-header">
+    <a class="site-brand" href="{{ '/' | relative_url }}">
+        <img src="{{ site.data.igreja.logo | relative_url }}" alt="{{ site.data.igreja.nome }}">
+        <span>{{ site.data.igreja.nome }}</span>
+    </a>
+
+    <nav class="site-nav" aria-label="Menu principal">
+        <a href="{{ '/' | relative_url }}">Início</a>
+        <a href="{{ '/agenda' | relative_url }}">Agenda</a>
+        <a href="{{ '/celulas' | relative_url }}">Células</a>
+        <a href="{{ '/primeira-visita' | relative_url }}">Primeira Visita</a>
+    </nav>
+</header>

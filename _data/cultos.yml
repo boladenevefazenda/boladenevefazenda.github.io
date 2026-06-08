@@ -1,0 +1,14 @@
+- nome: "Culto de Celebração"
+  descricao: "Culto principal da igreja"
+  dia: "Domingo"
+  horario: "19h00"
+
+- nome: "Culto de Quinta"
+  descricao: "Primeira quinta-feira de cada mês"
+  dia: "Em toda primeira Quinta-feira do mês"
+  horario: "20h00"
+
+- nome: "Demais quintas-feira - Cursos"
+  descricao: "Curso toda quinta-feira"
+  dia: "Todas as quintas, exceto a primeira"
+  horario: "20h00"

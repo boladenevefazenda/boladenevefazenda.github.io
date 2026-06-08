@@ -1,0 +1,20 @@
+<section id="cultos" class="container">
+
+    <h2>Horários</h2>
+
+    {% for culto in site.data.cultos %}
+
+    <div class="culto-card">
+
+        <h3>{{ culto.nome }}</h3>
+        <p>
+            📅 {{ culto.dia }}
+            &nbsp; • &nbsp;
+            🕒 {{ culto.horario }}
+        </p>
+
+    </div>
+
+    {% endfor %}
+
+</section>

@@ -1,0 +1,34 @@
+- titulo: "Quero Visitar"
+  descricao: "Informações para sua primeira visita"
+  url: "/primeira-visita"
+  icone: "heart"
+
+- titulo: "Nossa História"
+  descricao: "Conheça um pouco da nossa caminhada"
+  url: "/nossa-historia"
+  icone: "book-open"
+
+- titulo: "Horários dos Cultos"
+  descricao: "Confira nossos encontros"
+  url: "#cultos"
+  icone: "clock"
+
+- titulo: "Células"
+  descricao: "Encontre uma célula perto de você"
+  url: "/celulas"
+  icone: "users"
+
+- titulo: "Agenda"
+  descricao: "Eventos e programações"
+  url: "/agenda"
+  icone: "calendar"
+
+- titulo: "Instagram"
+  descricao: "@boladenevefazenda"
+  url: "https://instagram.com/boladenevefazenda"
+  icone: "instagram"
+
+- titulo: "WhatsApp"
+  descricao: "Fale conosco"
+  url: "https://wa.me/5541999827536"
+  icone: "message-circle"

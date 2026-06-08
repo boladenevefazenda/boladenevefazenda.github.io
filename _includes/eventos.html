@@ -1,0 +1,16 @@
+<section class="container">
+    <h2>Próximos Eventos</h2>
+
+    {% for evento in site.data.eventos limit:2 %}
+    <div class="card">
+        <h3>{{ evento.titulo }}</h3>
+        <p>📅 {{ evento.data }} • 🕒 {{ evento.horario }}</p>
+    </div>
+    {% endfor %}
+
+    <p style="text-align:center;">
+        <a class="hero-button" href="/agenda">
+            Ver agenda completa
+        </a>
+    </p>
+</section>

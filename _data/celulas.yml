@@ -1,0 +1,14 @@
+- nome: "Nações 01"
+  lider: "Pr. Deko"
+
+  whatsapp: "554199982-7536"
+  bairro: "Nações"
+  endereco: "Av. Brasil - 2939 - 1° andar - Em frente a pizzaria Donatello"
+  dia: "Terça-feira"
+  horario: "20:00"
+  latitude: -25.657422846114887
+  longitude: -49.30782478276432
+  observacao: "Acontece na igreja"
+  ativa: true
+  igreja: true
+  mostrar_endereco: true

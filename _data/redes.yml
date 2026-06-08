@@ -1,0 +1,14 @@
+instagram:
+  nome: "Instagram"
+  url: "https://instagram.com/boladenevefazenda"
+  icone: "instagram"
+
+whatsapp:
+  nome: "WhatsApp"
+  url: "https://wa.me/5541999827536"
+  icone: "whatsapp"
+
+localizacao:
+  nome: "Como Chegar"
+  url: "https://maps.google.com/?q=Av.+Brasil+2939+Fazenda+Rio+Grande"
+  icone: "map-pin"

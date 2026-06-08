@@ -1,0 +1,46 @@
+nome: "Bola de Neve Fazenda Rio Grande"
+
+slogan: "Uma igreja para chamar de lar"
+
+descricao: >
+  Somos uma igreja cristã comprometida em levar o amor de Jesus
+  às pessoas através da comunhão, discipulado e serviço.
+
+endereco: "Av. Brasil, 2939 - 1º andar"
+
+bairro: "Centro"
+
+cidade: "Fazenda Rio Grande"
+
+estado: "PR"
+
+cep: ""
+
+latitude: -25.6630
+longitude: -49.3090
+
+telefone: ""
+
+whatsapp: "5541999827536"
+
+email: ""
+
+instagram: "https://instagram.com/boladenevefazenda"
+
+youtube: ""
+
+site_sede: "https://boladeneve.com"
+
+logo: "/assets/images/logo.webp"
+
+hero_image: ""
+
+culto_principal:
+  nome: "Culto de Celebração"
+  dia: "Domingo"
+  horario: "19:00"
+
+culto_oracao:
+  nome: "Culto de Oração"
+  dia: "Primeira Quinta-feira do mês"
+  horario: "20:00"

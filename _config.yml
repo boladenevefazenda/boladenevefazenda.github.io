@@ -1,0 +1,8 @@
+title: Bola de Neve Fazenda Rio Grande
+description: Igreja Bola de Neve Fazenda Rio Grande
+url: https://boladenevefazenda.github.io
+
+markdown: kramdown
+
+plugins:
+  - jekyll-sitemap
