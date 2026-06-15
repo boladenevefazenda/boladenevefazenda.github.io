@@ -9,4 +9,4 @@ title: Início
 
 {% include links.html %}
 
-{% include eventos.html %}
+<!-- {% include eventos.html %} -->

@@ -1,14 +1,29 @@
-- nome: "Nações 01"
+- nome: "Igreja - Cultos"
   lider: "Pr. Deko"
 
   whatsapp: "554199982-7536"
   bairro: "Nações"
   endereco: "Av. Brasil - 2939 - 1° andar - Em frente a pizzaria Donatello"
-  dia: "Terça-feira"
-  horario: "20:00"
+  dia: "Aos Domingos"
+  horario: "19h00"
   latitude: -25.657422846114887
   longitude: -49.30782478276432
-  observacao: "Acontece na igreja"
+  observacao: "Cultos todos os domingos as 19h00"
   ativa: true
   igreja: true
+  mostrar_endereco: true
+
+- nome: "Iguaçu 01"
+  lider: "Pr. Deko"
+
+  whatsapp: "554199982-7536"
+  bairro: "Nações"
+  endereco: "Rua Rio Xingu, 770, casa 3 "
+  dia: "Terça-feira"
+  horario: "20:00"
+  latitude: -25.63872550762176
+  longitude: -49.31831179999999
+  observacao: "Anfitriãos (Tathy e Jonathan)"
+  ativa: true
+  igreja: false
   mostrar_endereco: true
