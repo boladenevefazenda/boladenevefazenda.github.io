@@ -32,3 +32,8 @@
   descricao: "Fale conosco"
   url: "https://wa.me/5541999827536"
   icone: "message-circle"
+
+- titulo: "Dizimos e ofertas"
+  descricao: "tesouraria.fazendariogrande@boladeneve.com"
+  url: "/ofertas"
+  icone: "heart"
