@@ -384,6 +384,16 @@ h3 {
     margin: 4px 0;
 }
 
+.dizimo-oferta {
+    text-align: center;
+}
+
+.dizimo-oferta img {
+    width: 70%;
+    max-width: 300px;
+    height: auto;
+}
+
 @media (max-width: 720px) {
     .site-header {
         align-items: flex-start;
