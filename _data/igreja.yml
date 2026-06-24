@@ -1,4 +1,6 @@
-nome: "Bola de Neve Fazenda Rio Grande"
+nome: "Bola de Neve"
+
+cidade: "Fazenda Rio Grande"
 
 slogan: "Uma igreja para chamar de lar"
 
@@ -8,7 +10,7 @@ descricao: >
 
 endereco: "Av. Brasil, 2939 - 1º andar"
 
-bairro: "Centro"
+bairro: "Nações"
 
 cidade: "Fazenda Rio Grande"
 
@@ -35,12 +37,12 @@ logo: "/assets/images/logo.webp"
 
 hero_image: ""
 
-culto_principal:
-  nome: "Culto de Celebração"
-  dia: "Domingo"
-  horario: "19:00"
+# culto_principal:
+#   nome: "Culto de Celebração"
+#   dia: "Domingo"
+#   horario: "19:00"
 
-culto_oracao:
-  nome: "Culto de Oração"
-  dia: "Primeira Quinta-feira do mês"
-  horario: "20:00"
+# culto_oracao:
+#   nome: "Culto de Oração"
+#   dia: "Primeira Quinta-feira do mês"
+#   horario: "20:00"
